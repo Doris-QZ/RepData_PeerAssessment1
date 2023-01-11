@@ -51,6 +51,7 @@ summary(daily_steps$total_steps)
      
 ### Question 2: What is the average daily activity pattern?  
   
+  
 **1. Calculate the average steps taken by the 5-minute intervals**
 
 ```{r}

@@ -1,3 +1,8 @@
+---
+output:
+  html_document: 
+    keep_md: yes
+---
 # Reproducible Research Course Project 1
 ***  
   
@@ -8,7 +13,8 @@
 ```{r}
 library(tidyverse)
 library(knitr)
-opts_chunk$set(echo = TRUE)
+
+knitr::opts_chunk$set(echo = TRUE)
 ```
   
   
